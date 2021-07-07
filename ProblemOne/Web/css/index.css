@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#cardDiv {
+  border: 1px solid black;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.card {
+  margin: 5px;
+  border: 1px solid black;
+  /* width: 80%; */
+}
+
+img {
+  width: 50%;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+p {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
